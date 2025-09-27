@@ -1,2 +1,5 @@
 # Contacts_Application
-Tkinter based contact application which stores data in a db
+CustomTkinter based contact application which stores data in a db
+
+Uses CTk.Frame to slide between frames.
+
